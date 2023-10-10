@@ -1,0 +1,8 @@
+List of the five things you have learned from the development of this activity.
+
+- I learned to define a App class as the root widget and a LoginPage class as the main content for the app.
+- I learned to create text input fields for username and password, using controllers to manage the input and focus nodes to handle the focus.
+- I learned to navigate to another page and pass data to it.
+- I learned to add an image using Image.asset and customize the appearance of buttons using the ElevatedButton.styleFrom property.
+- I learned to close the application.
+
